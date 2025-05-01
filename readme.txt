@@ -2,7 +2,7 @@
 
 In PFT, there are a total of 2 subdirectories:
 - **PFT-2**: Implementation of the PFT algorithm.
-- **src_replace**: Used to replace Pluto's core functionality to enable Pluto to generate the polyhedral information required by P2T.
+- **src_replace**: Used to replace Pluto's core functionality to enable Pluto to generate the polyhedral information required by PFT.
 
 ## Prerequisites
 
